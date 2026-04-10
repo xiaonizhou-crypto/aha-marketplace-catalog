@@ -1,0 +1,5 @@
+{
+  "name": "Visual Vocab Builder",
+  "description": "Learn English vocabulary by uploading images. The AI identifies objects and labels them with English words, translations, and example sentences.",
+  "requestFramePermissions": []
+}

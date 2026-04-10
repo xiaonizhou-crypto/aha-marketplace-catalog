@@ -1,0 +1,37 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#0F172A"/>
+  <rect x="48" y="40" width="1344" height="820" rx="24" fill="#F8FAFC"/>
+  <text x="88" y="102" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">HR Agent Team — Minimal Workflow</text>
+  <text x="88" y="140" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="20">Prototype screenshot for README</text>
+
+  <rect x="88" y="190" width="280" height="160" rx="20" fill="#EEF2FF" stroke="#C7D2FE"/>
+  <text x="116" y="240" fill="#312E81" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Resume Screener</text>
+  <text x="116" y="282" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">判断：建议继续推进</text>
+  <text x="116" y="316" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">下一步：约初面</text>
+
+  <rect x="408" y="190" width="280" height="160" rx="20" fill="#ECFDF5" stroke="#A7F3D0"/>
+  <text x="436" y="240" fill="#065F46" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Candidate Coordinator</text>
+  <text x="436" y="282" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">动作：生成约面话术</text>
+  <text x="436" y="316" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">输出：候选人可直接收到</text>
+
+  <rect x="728" y="190" width="280" height="160" rx="20" fill="#FFF7ED" stroke="#FDBA74"/>
+  <text x="756" y="240" fill="#9A3412" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Hiring Ops Tracker</text>
+  <text x="756" y="282" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">阶段：待约初面</text>
+  <text x="756" y="316" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">状态：正常推进</text>
+
+  <rect x="1048" y="190" width="256" height="160" rx="20" fill="#F1F5F9" stroke="#CBD5E1"/>
+  <text x="1076" y="240" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Feishu Update</text>
+  <text x="1076" y="282" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="20">回写阶段 / owner / 下一步</text>
+
+  <path d="M368 270H408" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M688 270H728" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1008 270H1048" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="88" y="410" width="1216" height="360" rx="20" fill="#0F172A"/>
+  <text x="124" y="466" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Demo case: 陈玉玲</text>
+  <text x="124" y="518" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22">• 后端主线稳，电商 / 搜索 / 内容治理对口</text>
+  <text x="124" y="560" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22">• Candidate Coordinator 生成 30 分钟初面邀约</text>
+  <text x="124" y="602" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22">• Hiring Ops Tracker 记录：待约初面 / HR / 今天发出邀请</text>
+  <text x="124" y="644" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22">• Feishu 备注：已确认可推进，待协调时间</text>
+  <text x="124" y="710" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="20">This image is a repo asset, not a product UI.</text>
+</svg>
