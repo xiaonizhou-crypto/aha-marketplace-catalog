@@ -30,7 +30,7 @@ metadata:
 
 ```bash
 # 1. 进入项目目录
-cd /Users/tricia/Downloads/visual-vocab-builder
+cd "<path-to-visual-vocab-builder>"
 
 # 2. 安装依赖
 npm install
@@ -49,7 +49,7 @@ npm run dev
 ### 后续运行（依赖已安装）
 
 ```bash
-cd /Users/tricia/Downloads/visual-vocab-builder && npm run dev
+cd "<path-to-visual-vocab-builder>" && npm run dev
 ```
 
 ---
@@ -111,7 +111,7 @@ visual-vocab-builder/
 如果你是 Agent，需要帮用户启动这个项目，执行以下操作：
 
 1. 检查 `.env.local` 是否存在且包含有效的 `GEMINI_API_KEY`
-2. 如不存在，提示用户提供 API Key，然后创建 `.env.local`
+2. 如不存在，创建不含真实 Key 的 `.env.local` 模板，请用户在本机自行填写；不要要求用户把 Key 发到聊天中
 3. 运行 `npm install`（如 `node_modules` 不存在）
 4. 运行 `npm run dev`
 5. 告知用户访问 `http://localhost:3000`
